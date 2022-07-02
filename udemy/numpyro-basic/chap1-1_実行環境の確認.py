@@ -14,3 +14,7 @@
 
 # ＜参考＞
 # https://stackoverflow.com/questions/64863194/jaxlib-pip-installation-failure
+
+# ＜GC＞
+# https://colab.research.google.com/?hl=ja
+
