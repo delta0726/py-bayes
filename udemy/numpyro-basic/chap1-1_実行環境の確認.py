@@ -11,3 +11,6 @@
 # ＜概要＞
 # - jaxがwindowsに対応してないようなので、GCで検証する
 #   --- 実務には不向き
+
+# ＜参考＞
+# https://stackoverflow.com/questions/64863194/jaxlib-pip-installation-failure
