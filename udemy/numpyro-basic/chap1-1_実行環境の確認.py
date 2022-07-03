@@ -4,7 +4,6 @@
 # Theme       : コールバックでモデルの予測値を取得する
 # Creat Date  : 2022/7/3
 # Final Update:
-# URL         : https://mizuhofinancialgroupjp.udemy.com/course/numpyro-basic/
 # ******************************************************************************
 
 
